@@ -2,7 +2,17 @@
 
 The Texas Darts Masters is a qualifier series for the 2022 U.S. Darts Masters, hosted by the [Champion Darts Corporation](https://champdarts.com) at the Hulu Theater at Madison Square Park in Manhattan.
 
-[Darts Atlas](https://dartsatlas.com) will be sponsoring at least 1 player from Texas with an all-expenses-paid trip to compete in the U.S. Darts Masters and to attend the PDC's World Series of Darts event that same weekend. Sponsorship includes airfare, lodging, touranment entry, World Series tickets, and a daily stipend. More details will be announced in May.
+[Darts Atlas](https://dartsatlas.com) will be sponsoring at least 1 player from Texas with an all-expenses-paid trip to compete in the U.S. Darts Masters and to attend the PDC's World Series of Darts event that same weekend.
+
+Sponsorship includes:
+
+- :airplane: Airfare
+- :hotel: Lodging
+- :trophy: U.S. Darts Masters Touranment Entry
+- :ticket: 2 World Series tickets
+- :dollar: Daily stipend
+
+More details will be announced in May.
 
 ## How to Qualify
 
