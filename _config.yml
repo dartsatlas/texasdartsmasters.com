@@ -1,0 +1,6 @@
+url: https://TexasDartsMasters.com
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+plugins:
+  - jekyll-include-cache
+  - jemoji
+
