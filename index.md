@@ -12,7 +12,7 @@ More details and dates will be announced in May.
 
 ## How to Qualify
 
-Darts Atlas is partnering with local community organizers to set up two qualifier tournaments in their region. The winners of each event will earn a spot in the Texas Darts Masters, to be held in Austin on March 5, 2022.
+Darts Atlas is partnering with local community organizers to set up two qualifier tournaments in their region. The winners of each event will earn an entry to the Texas Darts Masters, to be held in Austin on March 5, 2022.
 
 The qualifier entry fee is $25 per player. At least 16 players must participate in each tournament for the winner to earn their entry to the Texas Darts Masters.
 
