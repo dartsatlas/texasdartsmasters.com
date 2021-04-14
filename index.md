@@ -1,12 +1,10 @@
-The Texas Darts Masters is a qualifier series for the 2022 North American Championship Qualifiers.
-
 [Darts Atlas](https://dartsatlas.com) will be sponsoring *at least* one player from Texas with an all-expenses-paid trip to compete in the North American Darts Championship Qualifiers, and to attend the PDC's World Series of Darts event that same weekend.
 
 Sponsorship includes:
 
 - :airplane: Airfare
 - :hotel: Lodging
-- :trophy: North American Championship Qualifier Touranment Entry
+- :trophy: North American Championships Qualifier Touranment Entry
 - :ticket: 2 World Series tickets
 - :dollar: Daily stipend
 
